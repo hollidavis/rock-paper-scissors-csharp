@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wilki\\source\\codeworks\\rock-paper-scissors\\rock-paper-scissors.csproj": {}
+    "C:\\Users\\wilki\\source\\codeworks\\rock-paper-scissors-csharp\\rock-paper-scissors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wilki\\source\\codeworks\\rock-paper-scissors\\rock-paper-scissors.csproj": {
+    "C:\\Users\\wilki\\source\\codeworks\\rock-paper-scissors-csharp\\rock-paper-scissors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wilki\\source\\codeworks\\rock-paper-scissors\\rock-paper-scissors.csproj",
+        "projectUniqueName": "C:\\Users\\wilki\\source\\codeworks\\rock-paper-scissors-csharp\\rock-paper-scissors.csproj",
         "projectName": "rock-paper-scissors",
-        "projectPath": "C:\\Users\\wilki\\source\\codeworks\\rock-paper-scissors\\rock-paper-scissors.csproj",
+        "projectPath": "C:\\Users\\wilki\\source\\codeworks\\rock-paper-scissors-csharp\\rock-paper-scissors.csproj",
         "packagesPath": "C:\\Users\\wilki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wilki\\source\\codeworks\\rock-paper-scissors\\obj\\",
+        "outputPath": "C:\\Users\\wilki\\source\\codeworks\\rock-paper-scissors-csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wilki\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l0vFqMEjeE8l4P7+geLAkH6xEYQmOBzJoyiK2rfeCxDfyARmYDXtBeeQiQUEsdFCphe+5hJiseSromKlySuM4w==",
+  "dgSpecHash": "XSY1sMm3xWfoTdXQnGUWGCQXjGZzwPYlDejDN5iOMLKOAG312JQzYVEwbhSEg3a/TmYkURcdqua3gHjTQQ2CHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wilki\\source\\codeworks\\rock-paper-scissors\\rock-paper-scissors.csproj",
+  "projectFilePath": "C:\\Users\\wilki\\source\\codeworks\\rock-paper-scissors-csharp\\rock-paper-scissors.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
